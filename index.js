@@ -17,3 +17,10 @@ function overWriteBestCustomer() {
 function reassignLeastFavorite() {
   leastFavoriteCustomer = 'billy'
 }
+
+function attemptTwoFavoriteCustomers() {
+  favoriteCustomer = ['bryan', 'tim']
+}
+
+
+
