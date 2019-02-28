@@ -21,6 +21,3 @@ function reassignLeastFavorite() {
 function attemptTwoFavoriteCustomers() {
   favoriteCustomer = ['bryan', 'tim']
 }
-
-
-
