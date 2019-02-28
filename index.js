@@ -1,6 +1,6 @@
 /* Your code goes here */
 customerName = 'bob'
-const leastFavoriteCustomer = 'billly'
+const leastFavoriteCustomer = 'anyone else'
 
 function upperCaseCustomerName() {
   customerName = customerName.toUpperCase()
@@ -15,5 +15,5 @@ function overWriteBestCustomer() {
 }
 
 function reassignLeastFavorite() {
-  leastFavoriteCustomer = 'anyone'
+  leastFavoriteCustomer = 'billy'
 }
